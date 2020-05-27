@@ -11,6 +11,7 @@ import javax.persistence.*;
  * @author aturak
  * my model
  */
+//deneme commiti
 @Getter
 @Setter
 @Entity
